@@ -1,2 +1,2 @@
-# Glove-Arm-Portfolio-
-A robotic arm controller by a wearable glove.
+# AI-Robotic-arm-Portfolio-
+A robotic arm controlled by a local AI model.
